@@ -17,4 +17,4 @@ qr.make(fit=True)
 img = qr.make_image(fill_color="black", back_color="white")
 img.save("我的二维码.png")
 
-print("二维码生成成功！扫一下试试看！")
+print("二维码生成成功！")
